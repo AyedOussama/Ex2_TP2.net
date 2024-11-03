@@ -1,0 +1,7 @@
+C:\Users\ayedo\source\repos\Ex2_Tp2\Ex2_Tp2\bin\Debug\Ex2_Tp2.exe.config
+C:\Users\ayedo\source\repos\Ex2_Tp2\Ex2_Tp2\bin\Debug\Ex2_Tp2.exe
+C:\Users\ayedo\source\repos\Ex2_Tp2\Ex2_Tp2\bin\Debug\Ex2_Tp2.pdb
+C:\Users\ayedo\source\repos\Ex2_Tp2\Ex2_Tp2\obj\Debug\Ex2_Tp2.csproj.AssemblyReference.cache
+C:\Users\ayedo\source\repos\Ex2_Tp2\Ex2_Tp2\obj\Debug\Ex2_Tp2.csproj.CoreCompileInputs.cache
+C:\Users\ayedo\source\repos\Ex2_Tp2\Ex2_Tp2\obj\Debug\Ex2_Tp2.exe
+C:\Users\ayedo\source\repos\Ex2_Tp2\Ex2_Tp2\obj\Debug\Ex2_Tp2.pdb
